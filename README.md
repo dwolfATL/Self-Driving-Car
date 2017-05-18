@@ -3,7 +3,8 @@
 ### *Daniel Wolf*
 
 Below are my projects as part of Udacity's Self-Driving Car Nanodegree. 
-My [blog post on Term 1]() has more insight into my experience, and links
+My [blog post on Term 1](https://medium.com/@dwolfATL/note-to-my-past-self-pro-tips-for-term-1-of-the-udacity-self-driving-car-nanodegree-76d6a3f2467e) 
+has more insight into my experience, and links
 to a write-up and code for each project are shown below.
 
 Term 1
@@ -18,7 +19,7 @@ Term 2
 
 * ...
 
-Term 2
+Term 3
 
 * ...
 

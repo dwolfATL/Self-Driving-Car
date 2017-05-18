@@ -113,5 +113,3 @@ performance.
 
 *December 2016*
 
-# SDC-Traffic-Sign-Classification
-# SDC-Traffic-Sign-Classification

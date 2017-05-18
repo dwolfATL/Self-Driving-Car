@@ -153,5 +153,3 @@ the task at hand.
 * Keras
 
 *December 2016*
-
-# SDC-Behavioral-Cloning
